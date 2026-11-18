@@ -1,6 +1,6 @@
 {
   "name": "ssh-connection-window-size-ts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Reads and writes SSH channel window-adjust messages for flow-control tracking.",
   "type": "module",
   "main": "src/index.js",
